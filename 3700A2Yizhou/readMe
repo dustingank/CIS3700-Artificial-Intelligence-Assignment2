@@ -1,0 +1,8 @@
+So serval things about these program:
+    1) if you want run files in Q8 folder, make sure put them out, else the system will crush
+        beacuse there is no certain path in file IO, just the file name
+   
+    2) everytime the program run, the output file won't be overwritten, so you need to manaual delete
+        the duplicate stuff
+   
+    3) the makefile is aimed to run question 8, but as i said early, you need to put out the files first. 

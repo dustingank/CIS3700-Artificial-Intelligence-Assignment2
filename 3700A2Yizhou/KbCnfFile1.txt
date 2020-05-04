@@ -1,0 +1,24 @@
+~P11
+~W11
+S11 v ~W21
+S11 v ~W12
+W21 v W12 v ~S11
+B11 v ~P21
+B11 v ~P12
+P21 v P12 v ~B11
+S12 v ~W22
+S12 v ~W13
+S12 v ~W11
+W22 v W13 v W11 v ~S12
+B12 v ~P22
+B12 v ~P13
+B12 v ~P11
+P22 v P13 v P11 v ~B12
+S21 v ~W31
+S21 v ~W22
+S21 v ~W11
+W31 v W22 v W11 v ~S21
+B21 v ~P31
+B21 v ~P22
+B21 v ~P11
+P31 v P22 v P11 v ~B21
